@@ -1,0 +1,29 @@
+TASK 2 — PROJECT DOCUMENTATION
+Title: TaskFlow — Mini Interactive To-Do List App
+Developer: Hannan Khan
+
+Objective:
+Build a mini interactive JavaScript application using DOM manipulation.
+
+Description:
+TaskFlow lets a user add tasks, mark them complete, delete tasks, filter by status, and clear completed items. The task counts and completion progress update dynamically. Browser localStorage preserves tasks after refresh on the same browser and device.
+
+Technologies:
+HTML5, CSS3, Vanilla JavaScript, DOM API, localStorage.
+
+DOM concepts:
+- querySelector() selects elements.
+- addEventListener() handles form submissions and clicks.
+- createElement() creates task elements.
+- append() adds elements to the page.
+- replaceChildren() updates the task list.
+- classList.toggle() changes UI state.
+- textContent and style.width update labels and progress.
+
+How to run:
+Open index.html in a modern browser. No API key or installation is required.
+
+Evidence to capture after hosting:
+1. App homepage with sample tasks.
+2. A completed task with progress updated.
+3. Mobile layout.
