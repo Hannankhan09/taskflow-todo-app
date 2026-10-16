@@ -20,6 +20,9 @@ Download/clone the repository and open `index.html` in a modern browser. No buil
 
 ## Screenshots for submission
 Capture these after deployment:
-1. `01-taskflow-home.png` — homepage with sample tasks
-2. `02-taskflow-completed.png` — completed task and updated progress
-3. `03-taskflow-mobile.png` — responsive mobile view
+1. `<img width="720" height="1600" alt="59052644-d3cc-4419-a64d-38e53fb7aacb" src="https://github.com/user-attachments/assets/533f63c2-b19e-48c1-845d-93766b0ed87d" />
+` — homepage with sample tasks
+2. `<img width="1721" height="1410" alt="Screenshot_16-10-2026_231350_" src="https://github.com/user-attachments/assets/27b3d6fa-9621-4a72-a26a-fd5d46a213ec" />
+` — completed task and updated progress
+3. `<img width="720" height="1600" alt="59052644-d3cc-4419-a64d-38e53fb7aacb" src="https://github.com/user-attachments/assets/ae1bf620-dfec-45d2-ab7e-d896ccb803fc" />
+` — responsive mobile view
